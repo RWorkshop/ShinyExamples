@@ -1,0 +1,12 @@
+AngristLavy             Angrist and Lavy (1999) Maimonides' Rule Data
+                        Set
+binarysens              Binary Sensitivity Test
+data.prep               Format Match() object for sensitivity test.
+hlsens                  Rosenbaum Bounds for Hodges-Lehmann Point
+                        Estimate
+iv_sens                 Function to calculate Rosenbaum bounds for IV
+                        Estimator based on Wilcoxon sign rank test.
+mcontrol                Sensitivity Analysis For Multiple Matched
+                        Controls
+print.rbounds           Summarize output from rbounds object
+psens                   Rosenbaum Bounds for Sign Rank
