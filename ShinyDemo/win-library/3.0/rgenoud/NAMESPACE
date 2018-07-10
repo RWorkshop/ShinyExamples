@@ -1,2 +1,0 @@
-#useDynlib(rgenoud)
-export(genoud)
